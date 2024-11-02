@@ -1,0 +1,9 @@
+﻿  2labALG.cpp
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(39,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(63,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(152,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(163,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(220,30): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(224,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\2labALG\2labALG\2labALG.cpp(246,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  2labALG.vcxproj -> C:\Users\user\source\repos\2labALG\x64\Debug\2labALG.exe
